@@ -1,7 +1,10 @@
-# Prise en mains rapide
+#Check-in DOG
+
+## Prise en mains rapide
 
 **Ce guide rapide de prise en mains vous permettra d'apprivoiser Check-in DOG en 10 minutes, de maîtriser les fonctions de base et de commencer à utiliser efficacement le logiciel.**
-##1. Créer mon compte
+
+###1. Créer mon compte
 
 L'écran d'accueil vous présente deux options: 'Login' et 'S'inscrire'. Pour créer un compte, appuyez sur 'S'inscrire'. 
 
@@ -12,9 +15,9 @@ Ensuite, remplissez les détails nécessaires: votre nom, votre adresse E-Mail a
 ![Page d'inscription](/images/inscription-details.png)
 
 
-##2. Paramétrer mon entreprise et mes taxes
+###2. Paramétrer mon entreprise et mes taxes
 
-###Entreprise
+####Entreprise
 
 Vous êtes maintenant à la page d'acceuil. Commencez par cliquer sur 'Données entreprise'.
 
@@ -36,7 +39,7 @@ Remplissez les données demandés:
 
 Cliquez ensuite sur 'Enregistrer', ce qui vous ramène à la page d'acceuil. 
 
-###Taxes
+####Taxes
 
 Cliquez maintenant sur 'Taxes'.
 
@@ -53,7 +56,7 @@ Le système d'Auto-configuration permet de directement configurer les taux de ta
 Une fois terminé, retournez en haut de la page et cliquez sur le logo en haut à gauche pour retourner à la page d'acceuil.
 
 
-##3. Créer mes premiers articles
+###3. Créer mes premiers articles
 
 Maintenant que vous avez configuré les donnés nécessaires pour votre entreprise, vous pouvez créer vos premiers articles. Cliquez tout simplement sur 'Articles'.
 
@@ -74,14 +77,14 @@ Il est possible de voir un apperçu, de modifier ou d'effacer chaque article à 
 ![Modifier article](/images/modifier-article.png) 
 
 
-##4. Créer ma première facture
+###4. Créer ma première facture
 
 Retournez à la page d'acceuil en cliquant sur le logo en haut à gauche de la page. Selectionnez ensuite 'Nouvelle facture'.
 
 ![Première facture](/images/premiere-facture.png)
 
 
-##5. Créer mon premier client, mon premier chien et mon premier rendez-vous
+###5. Créer mon premier client, mon premier chien et mon premier rendez-vous
 
 Retournez à la page d'acceuil en cliquant sur le logo en haut à gauche de la page. Selectionnez ensuite 'Nouveau client'.
 

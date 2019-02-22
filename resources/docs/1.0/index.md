@@ -1,2 +1,3 @@
 - ## Débuter
+    - [Créez votre compte](/docs/{{version}}/compte)
     - [Prise en Mains](/docs/{{version}}/prise-en-mains)
