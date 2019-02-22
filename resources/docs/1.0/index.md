@@ -1,0 +1,2 @@
+- ## Débuter
+    - [Prise en Mains](/docs/{{version}}/prise-en-mains)
