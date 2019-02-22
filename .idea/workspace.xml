@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96406437-0b50-4f89-a6ab-e38dd38fb7a2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/docs/1.0/compte.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/docs/1.0/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/resources/docs/1.0/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/docs/1.0/overview.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/larecipe.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/larecipe.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/docs/1.0/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -27,6 +24,15 @@
                 <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="larecipe.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/larecipe.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="127">
+              <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -51,13 +57,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/config/larecipe.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/resources/docs/1.0/index.md" />
         <option value="$PROJECT_DIR$/resources/docs/1.0/overview.md" />
         <option value="$PROJECT_DIR$/resources/docs/1.0/compte.md" />
+        <option value="$PROJECT_DIR$/config/larecipe.php" />
       </list>
     </option>
   </component>
@@ -192,6 +198,11 @@
             <path>
               <item name="docs-fr.checkindog.com" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs-fr.checkindog.com" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs-fr.checkindog.com" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs-fr.checkindog.com" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -248,12 +259,12 @@
       <workItem from="1550812098091" duration="299000" />
       <workItem from="1550812605859" duration="35000" />
       <workItem from="1550812686106" duration="792000" />
-      <workItem from="1550813661574" duration="1630000" />
+      <workItem from="1550813661574" duration="1728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2756000" />
+    <option name="totallyTimeSpent" value="2854000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -316,13 +327,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4576">
           <caret line="176" column="64" selection-start-line="176" selection-start-column="64" selection-end-line="176" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/larecipe.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4810">
-          <caret line="183" column="32" lean-forward="true" selection-start-line="183" selection-start-column="32" selection-end-line="183" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -389,6 +393,13 @@
             <caret line="1" column="52" lean-forward="true" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/larecipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
         </state>
       </provider>
     </entry>
