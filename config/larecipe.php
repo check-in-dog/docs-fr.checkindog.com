@@ -141,8 +141,8 @@ return [
 
     'ui'                 => [
         'show_app_name'  => true,
-        'logo'           => '', // e.g.: /images/logo.svg
-        'fav'            => '', // e.g.: /fav.png
+        'logo'           => '/images/checkInDogLogo.jpg', // e.g.: /images/logo.svg
+        'fav'            => '/images/checkInDogLogo.jpg', // e.g.: /fav.png
         'theme'          => 'light',
         'code'           => 'dark',
         'back_to_top'    => true,
